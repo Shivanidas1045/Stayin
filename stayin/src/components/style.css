@@ -1,0 +1,29 @@
+.badge{
+    background-color:#9FE2BF;
+    border-radius: 50%;
+}
+.nav-item{
+    border-width: medium;
+    border-color:white;
+    font-weight:600;
+    font-family:monospace;
+    border-style:double; 
+
+
+}
+.nav-item:hover{
+    background-color:#9FE2BF;
+    color:black;
+}
+.navbar {
+    background: rgba(255, 255, 255, 0.2); /* Light transparency */
+    backdrop-filter: blur(10px); /* Glass effect */
+    transition: background 0.3s ease-in-out;
+  }
+  .hotelImg-hover {
+    transition: transform 0.3s ease-in-out;
+  }
+  .hotelImg-hover:hover {
+    transform: scale(1.1);
+  }
+  
