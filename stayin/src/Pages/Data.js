@@ -41,7 +41,7 @@ const hotelRooms = [
     },
     {
         id:6,
-        type:"Aesthetic Room",
+        type:"Deluxe Room",
         image:"https://plus.unsplash.com/premium_photo-1663126637580-ff22a73f9bfc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8ZGlmZmVyZW50JTIwdHlwZSUyMG9mJTIwaG90ZWwlMjByb29tfGVufDB8fDB8fHww",
         pricePerNight:2000,
         rating:"⭐⭐⭐⭐⭐",
