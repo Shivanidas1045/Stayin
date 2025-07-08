@@ -4,22 +4,22 @@ import "./style.css";
 const Navbar = () => {
   return (
     <div>
-<nav class="navbar navbar-expand-lg bg-transparent fixed-top">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="/"><span class="badge fst-italic fs-4 text-dark">Stay</span> <span class="badge fst-italic fs-4 bg-black text-light">Inn</span></a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
+<nav className="navbar navbar-expand-lg bg-transparent fixed-top">
+  <div className="container-fluid">
+    <a className="navbar-brand" href="/"><span className="badge fst-italic fs-4 text-dark">Stay</span> <span className="badge fst-italic fs-4 bg-black text-light">Inn</span></a>
+    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span className="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav mx-auto gap-5 fs-5 mb-2">
-        <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="/">HOME</a>
+    <div className="collapse navbar-collapse" id="navbarNav">
+      <ul className="navbar-nav mx-auto gap-5 fs-5 mb-2">
+        <li className="nav-item">
+          <a className="nav-link" aria-current="page" href="/">HOME</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/hotels">HOTELS</a>
+        <li className="nav-item">
+          <a className="nav-link" href="/hotels">HOTELS</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/contactus">CONTACT US</a>
+        <li className="nav-item">
+          <a className="nav-link" href="/contactus">CONTACT US</a>
         </li>
       </ul>
       <div>
