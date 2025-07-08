@@ -6,7 +6,7 @@ StayIn is a responsive and user-friendly hotel room booking platform that lets u
 
 ## 🌐 Live Demo
 
-👉 [Visit StayIn](https://your-deployed-site-link.com)  
+👉 [Visit StayIn](https://candid-hotteok-faf6eb.netlify.app/)  
 
 
 ## 🛠️ Tech Stack Used
